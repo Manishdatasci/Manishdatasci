@@ -36,6 +36,12 @@
 
 ---
 
+
+## ⚡ Fun Fact
+I believe **data is the new gold**, and I’m mining it to build my empire 🚀.
+
+---
+
 ## 📊 GitHub Stats & Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manishdatasci&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishdatasci&layout=compact&theme=radical)
