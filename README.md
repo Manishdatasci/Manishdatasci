@@ -48,7 +48,6 @@
 ---
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishdatasci&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=Manishdatasci&color=blue)
 
 ---
