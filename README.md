@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="ChatGPT Image Aug 11, 2025, 10_37_03 PM" src="https://github.com/user-attachments/assets/f51fb9a3-e87b-48f9-b69c-cc87b10a84e2" />
+
+
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&width=600&lines=Hi+I'm+Manish+%F0%9F%91%8B;Aspiring+Data+Scientist+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%93%8A;AI+Explorer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
