@@ -1,4 +1,60 @@
-## Hi there 👋
+# Hi there, I'm Manish 👋
+
+💻 **Aspiring Data Scientist** | 📊 **Machine Learning Enthusiast** | 🚀 **AI Explorer**
+
+I’m passionate about turning **data into insights** and building solutions that create real-world impact.  
+Currently exploring **Machine Learning, Data Analytics, and AI applications** to sharpen my skills and contribute to the tech community.
+
+---
+
+## 🚀 About Me
+- 🎓 **B.Tech in Computer Science and Engineering** (Jharkhand University of Technology, 2024)
+- ✍️ 2 years of experience as a **Content Writer**
+- 🔭 Working on: AI Chatbots, Predictive Modeling, Interactive Dashboards
+- 🌱 Learning: **Deep Learning**, **NLP**, and **Big Data Tools**
+- 🏆 Goal: Become the **greatest Data Scientist in the world**
+
+---
+
+## 🛠 Skills
+- **Programming:** Python, SQL
+- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Machine Learning:** Regression, Classification, Decision Trees, NLP
+- **Frameworks & Tools:** Flask, Streamlit, Git, Jupyter Notebook, Power BI
+- **Databases:** MySQL 
+
+---
+
+## 📌 Featured Projects
+Here are some of my best works — click to explore the code 👇
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [📊 Churn Prediction](https://github.com/Manishdatasci/churn-prediction) | Predicts customer churn using Logistic Regression | Python, Pandas, Scikit-learn |
+| [📱 Smartphone Analysis](https://github.com/Manishdatasci/smartphone-analysis) | SQL queries for smartphone dataset insights | MySQL |
+| [📈 Sales Trend Analysis](https://github.com/Manishdatasci/sales-trend-analysis) | Analyzes sales patterns over time | Python, Matplotlib |
+| [📉 Marketing Funnel Analysis](https://github.com/Manishdatasci/marketing-funnel-analysis) | Visualizes funnel metrics for marketing data | Python, Seaborn |
+
+---
+
+## 📫 Connect With Me
+- 📧 **Email:** [manishkumar764505@gmail.com](mailto:manishkumar764505@gmail.com)
+- 💼 **LinkedIn:** [Manish Kumar](https://www.linkedin.com/in/manish-kumar-487121268)
+- 🐙 **GitHub:** [Manishdatasci](https://github.com/Manishdatasci)
+
+---
+
+## ⚡ Fun Fact
+I believe **data is the new gold**, and I’m mining it to build my empire 🚀.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manishdatasci&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishdatasci&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Manishdatasci&color=blue)
+
+---
+⭐ *If you like my work, consider giving a star to my repositories!*
 
 <!--
 **Manishdatasci/Manishdatasci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
