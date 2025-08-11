@@ -13,7 +13,6 @@
 ---
 
 ## 🛠 Skills & Tools
-## 🛠 Skills & Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
@@ -31,17 +30,6 @@
 [![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-
-
----
-
-## 📌 Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [📊 Churn Prediction](https://github.com/Manishdatasci/churn-prediction) | Predicts customer churn using Logistic Regression | Python, Pandas, Scikit-learn |
-| [📱 Smartphone Analysis](https://github.com/Manishdatasci/smartphone-analysis) | SQL queries for smartphone dataset insights | MySQL |
-| [📈 Sales Trend Analysis](https://github.com/Manishdatasci/sales-trend-analysis) | Analyzes sales patterns over time | Python, Matplotlib |
-| [📉 Marketing Funnel Analysis](https://github.com/Manishdatasci/marketing-funnel-analysis) | Visualizes funnel metrics for marketing data | Python, Seaborn |
 
 ---
 
