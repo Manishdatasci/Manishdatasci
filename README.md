@@ -25,18 +25,6 @@ Currently exploring **Machine Learning, Data Analytics, and AI applications** to
 
 ---
 
-## 📌 Featured Projects
-Here are some of my best works — click to explore the code 👇
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [📊 Churn Prediction](https://github.com/Manishdatasci/churn-prediction) | Predicts customer churn using Logistic Regression | Python, Pandas, Scikit-learn |
-| [📱 Smartphone Analysis](https://github.com/Manishdatasci/smartphone-analysis) | SQL queries for smartphone dataset insights | MySQL |
-| [📈 Sales Trend Analysis](https://github.com/Manishdatasci/sales-trend-analysis) | Analyzes sales patterns over time | Python, Matplotlib |
-| [📉 Marketing Funnel Analysis](https://github.com/Manishdatasci/marketing-funnel-analysis) | Visualizes funnel metrics for marketing data | Python, Seaborn |
-
----
-
 ## 📫 Connect With Me
 - 📧 **Email:** [manishkumar764505@gmail.com](mailto:manishkumar764505@gmail.com)
 - 💼 **LinkedIn:** [Manish Kumar](https://www.linkedin.com/in/manish-kumar-487121268)
