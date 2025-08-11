@@ -48,7 +48,6 @@
 ---
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
-![Profile Views](https://komarev.com/ghpvc/?username=Manishdatasci&color=blue)
 
 ---
 <!--
