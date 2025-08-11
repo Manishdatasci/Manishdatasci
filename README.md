@@ -52,8 +52,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Manishdatasci&color=blue)
 
 ---
-⭐ *If you like my work, consider giving a star to my repositories!*
-
 <!--
 **Manishdatasci/Manishdatasci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
