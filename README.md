@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Aug 11, 2025, 10_37_03 PM" src="https://github.com/user-attachments/assets/f51fb9a3-e87b-48f9-b69c-cc87b10a84e2" />
+![AI_poster](https://github.com/user-attachments/assets/930a77cb-e468-4342-853e-369414fdedf5)
 
 
 <!-- Typing Animation -->
