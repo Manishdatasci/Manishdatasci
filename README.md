@@ -1,4 +1,4 @@
-![Uploading ChatGPT Image Aug 12, 2025, 08_23_49 AM.png…]()
+![Upload ChatGPT Image Aug 12, 2025, 08_23_49 AM.png…]()
 
 
 <!-- Typing Animation -->
