@@ -1,4 +1,4 @@
-![AI_poster](https://github.com/user-attachments/assets/930a77cb-e468-4342-853e-369414fdedf5)
+![Uploading ChatGPT Image Aug 12, 2025, 08_23_49 AM.png…]()
 
 
 <!-- Typing Animation -->
