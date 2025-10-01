@@ -8,7 +8,6 @@
 
 ## 🚀 About Me
 - 🎓 **B.Tech in Computer Science and Engineering** (Jharkhand University of Technology, 2024)
-- ✍️ 2 years of experience as a **Content Writer**
 - 🔭 Working on: AI Chatbots, Predictive Modeling, Interactive Dashboards
 - 🌱 Learning: **Deep Learning**, **NLP**, and **Big Data Tools**
 - 🏆 Goal: Pushing the boundaries of Data Science with bold ideas and a visionary mindset. Inspired by innovators like Elon Musk, I aim to create real-world impact through intelligent, data-driven solutions — not just building models, but building change.
