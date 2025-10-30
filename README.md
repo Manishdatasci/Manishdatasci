@@ -10,7 +10,6 @@
 - 🎓 B.Tech in Computer Science and Engineering (Jharkhand University of Technology, 2024)
 - 🔧 Technical Skills: Python, SQL, Pandas, NumPy, Scikit-learn, Power BI, Matplotlib, Seaborn, Streamlit, Git
 - 🔭 Working on:  Developing machine learning projects including AI chatbots, predictive modeling, and interactive dashboards to solve real-world problems.
-- 🌱 Currently Learning: Deep Learning, Natural Language Processing (NLP), and Big Data Tools
 - 🛠️ Core Expertise: Data Cleaning & EDA, Feature Engineering, Machine Learning Algorithms, Visualization, and Model Deployment
 - 🏆 Goal: Inspired by visionary leaders like Elon Musk, I am passionate about advancing Data Science through bold ideas and practical innovation. My aim is to turn data-driven insights into real-world solutions that make a meaningful impact.
 
