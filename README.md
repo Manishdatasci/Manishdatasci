@@ -7,11 +7,44 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech in Computer Science and Engineering (Jharkhand University of Technology, 2024)
-- 🔧 Technical Skills: Python, SQL, Pandas, NumPy, Scikit-learn, Power BI, Matplotlib, Seaborn, Streamlit, Git
-- 🔭 Working on:  Developing machine learning projects including AI chatbots, predictive modeling, and interactive dashboards to solve real-world problems.
-- 🛠️ Core Expertise: Data Cleaning & EDA, Feature Engineering, Machine Learning Algorithms, Visualization, and Model Deployment
-- 🏆 Goal: Inspired by visionary leaders like Elon Musk, I am passionate about advancing Data Science through bold ideas and practical innovation. My aim is to turn data-driven insights into real-world solutions that make a meaningful impact.
+# 👋 Hi, I’m Manish Kumar Rajak
+
+**Data Analyst & Aspiring Data Scientist** passionate about transforming raw data into meaningful insights and predictive models that solve real-world problems.
+
+---
+
+## 🎓 Education
+- B.Tech in Computer Science and Engineering (Jharkhand University of Technology, 2024)
+
+---
+
+## 💡 What I Do
+- Analyze, visualize, and model data to uncover business insights and drive data-informed decisions.
+
+---
+
+## 🧠 Technical Skills
+- Python · SQL · Pandas · NumPy · Scikit-learn · Power BI · Matplotlib · Seaborn · Streamlit · Git
+
+---
+
+## 📊 Core Areas
+- Data Cleaning & EDA  
+- Feature Engineering  
+- Statistical Analysis  
+- Machine Learning (Regression & Classification)  
+- Dashboard Development
+
+---
+
+## 🚀 Current Focus
+- Building end-to-end data and ML projects such as **Churn Prediction**, **Sales Trend Analysis**, and **Marketing Funnel Optimization** with deployment on Streamlit.
+
+---
+
+## 🏆 Vision
+- To become a world-class Data Scientist who bridges analytics and innovation — turning data-driven insights into impactful solutions for businesses and society.
+
 
 ---
 
