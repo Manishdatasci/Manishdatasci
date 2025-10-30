@@ -2,49 +2,16 @@
 
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&width=600&lines=Hi+I'm+Manish+%F0%9F%91%8B;Aspiring+Data+Scientist+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%93%8A;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&width=600&lines=Hi+I'm+Manish+%F0%9F%91%8B;Data+Analyst+%26+ML+Enthusiast+%F0%9F%92%BB;Turning+Data+Into+Insights+%F0%9F%93%8A;)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 About Me
-# 👋 Hi, I’m Manish Kumar Rajak
-
-**Data Analyst & Aspiring Data Scientist** passionate about transforming raw data into meaningful insights and predictive models that solve real-world problems.
-
----
-
-## 🎓 Education
-- B.Tech in Computer Science and Engineering (Jharkhand University of Technology, 2024)
-
----
-
-## 💡 What I Do
-- Analyze, visualize, and model data to uncover business insights and drive data-informed decisions.
-
----
-
-## 🧠 Technical Skills
-- Python · SQL · Pandas · NumPy · Scikit-learn · Power BI · Matplotlib · Seaborn · Streamlit · Git
-
----
-
-## 📊 Core Areas
-- Data Cleaning & EDA  
-- Feature Engineering  
-- Statistical Analysis  
-- Machine Learning (Regression & Classification)  
-- Dashboard Development
-
----
-
-## 🚀 Current Focus
-- Building end-to-end data and ML projects such as **Churn Prediction**, **Sales Trend Analysis**, and **Marketing Funnel Optimization** with deployment on Streamlit.
-
----
-
-## 🏆 Vision
-- To become a world-class Data Scientist who bridges analytics and innovation — turning data-driven insights into impactful solutions for businesses and society.
-
+## About Me
+🎓 Computer Science and Engineering graduate with a passion for transforming raw data into meaningful insights and actionable solutions  
+🛠️ Skilled in Python, SQL, Statistics, and Machine Learning for data analysis and predictive modeling  
+📊 Experienced in Exploratory Data Analysis (EDA), data cleaning, feature engineering, and building interactive dashboards in Power BI  
+🚀 Problem-solver with a hands-on approach, focused on using data to drive business decisions and real-world impact  
+🔍 Continuously learning and exploring advanced Machine Learning and Deep Learning techniques to deliver smarter, data-driven solutions
 
 ---
 
@@ -58,7 +25,6 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)]()
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white)]()
-[![NLP](https://img.shields.io/badge/NLP-0E76A8?style=for-the-badge&logo=spacy&logoColor=white)]()
 [![Statistics](https://img.shields.io/badge/Statistics-8A2BE2?style=for-the-badge)]()
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)]()
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
