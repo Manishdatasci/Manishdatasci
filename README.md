@@ -46,6 +46,16 @@ I believe **data is the new gold**, and I’m mining it to build my empire 🚀.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishdatasci&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=Manishdatasci&color=blue)
 
+
+## 📊 GitHub Stats & Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=Manishdatasci&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishdatasci&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Manishdatasci&label=Profile%20Views&color=blue)
+
+
 ---
 
 ## 📫 Connect With Me
