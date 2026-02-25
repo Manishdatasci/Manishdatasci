@@ -2,7 +2,7 @@
 
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&width=600&lines=Hi+I'm+Manish+%F0%9F%91%8B;Data+Analyst+%26+ML+Enthusiast+%F0%9F%92%BB;Turning+Data+Into+Insights+%F0%9F%93%8A;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&width=600&lines=Hi+I'm+Manish+%F0%9F%91%8B;)](https://git.io/typing-svg)
 
 ---
 
